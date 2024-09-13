@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikos</h1>
-<h3 align="center">A passionate frontend developer from Greece</h3>
+<h3 align="center">A passionate Technology Enthusiast from Greece</h3>
+
+- 🏫 I’m currently studying **Applied Informatics at University of Macedonia**
+
+- 👨‍💻 I'm the head developer of [scibridges.org](scibridges.org)
 
 - 📫 How to reach me **nikele6002@gmail.com**
+
+- ⚡ Fun fact **I have my own homelab and love tinkering with server hardware :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
